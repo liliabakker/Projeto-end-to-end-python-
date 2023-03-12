@@ -13,7 +13,7 @@ Fases:
 - Realizar análises descritivas e estáticas dos dados
 
 3º Data Prep Feature eng
--Preparação dos dados para serem incluídos no modelo de Machine Leanring
+- Preparação dos dados para serem incluídos no modelo de Machine Leanring
 
 4º Machine Learning
 - Treinar um modelo de Regressão usando Random Forest 
