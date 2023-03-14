@@ -19,6 +19,6 @@ Fases:
 - Treinar um modelo de Regressão usando Random Forest 
 
 5º Deploy
-- Criação de uma API para servir nosso modelo unsando Flask
+- Criação de uma API para servir nosso modelo usando Flask
 
 Conteúdo - curso Udemy
