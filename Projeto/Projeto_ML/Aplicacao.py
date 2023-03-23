@@ -15,7 +15,7 @@ Aplicativo = Flask(__name__)
 Modelo = joblib.load('Modelo_Floresta_Aleatorio_v100.pkl')
 
 # --------- FUNÇÃO DA API ---------
-# Função para receber nossa API
+# Função para receber API
 @Aplicativo.route('/API_Preditivo/<area>;<rooms>;<bathroom>;<parking_spaces>;<floor>;<animal>;<furniture>;<hoa>;<property_tax>', methods=['GET'])
 def Funcao_01( area, rooms, bathroom, parking_spaces, floor, animal, furniture, hoa, property_tax ):				
 
