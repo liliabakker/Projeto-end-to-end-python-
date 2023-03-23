@@ -57,7 +57,7 @@ def Funcao_01( area, rooms, bathroom, parking_spaces, floor, animal, furniture, 
             VALUES ( '{Input}', '{Data_Inicio}', '{Data_Fim}', '{Processamento}' )
         '''
 
-        # Execuar a Query
+        # Executar a Query
         Cursor.execute( Query_Inserindo_Dados )
         Conexao_Banco.commit()
 
