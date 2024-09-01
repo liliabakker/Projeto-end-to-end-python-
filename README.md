@@ -21,4 +21,4 @@ Fases:
 5º Deploy
 - Criação de uma API para servir nosso modelo usando Flask
 
-Conteúdo - curso Udemy
+
